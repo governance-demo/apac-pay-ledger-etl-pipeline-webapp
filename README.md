@@ -1,2 +1,6 @@
 # apac-pay-ledger-etl-pipeline-webapp
-payments-platform / critical / apac
+
+Team: **payments-platform**  
+Tier: **critical**  
+Region: **apac**  
+Synthetic demo repo for the Domo governance platform.
